@@ -1,0 +1,32 @@
+******************** Résumé de la commande numéro 1 **********************
+salade
+poulet
+riz
+eau plate
+
+******************** Résumé de la commande numéro 2 **********************
+poulet
+tarte maison
+
+******************** Résumé de la commande numéro 3 **********************
+soupe
+boeuf
+riz
+tarte maison
+
+******************** Résumé de la commande numéro 4 **********************
+salade
+poulet
+
+******************** Résumé de la commande numéro 5 **********************
+boeuf
+eau gazeuze
+tarte maison
+
+******************** Résumé de la commande numéro 6 **********************
+salade
+boeuf
+pates
+eau gazeuze
+mousse au chocolat
+
